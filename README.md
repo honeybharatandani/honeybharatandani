@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... milestones 😉
 - 🌱 I’m currently learning ... css😍 and js😑 
-- 
 - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱..
 
 
