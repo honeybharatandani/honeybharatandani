@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/honeybharatandani"><img src="https://github-profile-trophy.vercel.app/?username=honeybharatandani&theme=onedark" alt="honeybharatandani" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandpratiksha&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="honeybharatandani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeybharatandani&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="honeybharatandani" /></p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybharatandani&show_icons=true&count_private=true&&theme=highcontrast)  
