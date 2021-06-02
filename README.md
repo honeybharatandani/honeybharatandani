@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Honey Andani</h1>
 
- <img src="https://tenor.com/view/developer-dev-youtube-google-github-stackoverflow-mycrxn-gif-21433912" width="250" /> <hr>
+ <img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="250" /> <hr>
 
 
 - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱....
