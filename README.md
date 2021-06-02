@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honey Andani</h1>
 
 
- <img src="<div class="tenor-gif-embed" data-postid="21433912" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/developer-dev-youtube-google-github-stackoverflow-mycrxn-gif-21433912">Developer Dev Youtube Google GIF</a> from <a href="https://tenor.com/search/developerdev-gifs">Developerdev GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="250" /> <hr>
+
 
 - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱....
 -  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/>
