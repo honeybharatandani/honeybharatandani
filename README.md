@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honey Andani</h1>
 
 
- <img src="" width="250" /> <hr>
+ <img src="https://tenor.com/bB56q.gif" width="250" /> <hr>
 
 - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱....
 -  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/>
