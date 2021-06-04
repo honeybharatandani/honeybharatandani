@@ -24,6 +24,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honeybharatandani&theme=highcontrast)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=honeybharatandani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+ <html>
+  <body>
 <style>
   :root {
     --penguin-size: 200px;
@@ -253,6 +255,8 @@
     <div class="beak-bottom"></div>
   </div>
 </div>
+  </body>
+  </html
 ![GitHub metrics](https://metrics.lecoq.io/honeybharatandani)  
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
 
