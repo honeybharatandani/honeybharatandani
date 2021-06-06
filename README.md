@@ -11,7 +11,7 @@
 <!--  <img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="250" /> <hr> -->
  
  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatshouldwecallgradschool.tumblr.com%2Fpost%2F94158370037%2Fmy-daily-routine&psig=AOvVaw3qKOXnGNNWszLDJnXug-mA&ust=1623056902162000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDKzufVgvECFQAAAAAdAAAAABAJ" width="350" />
+<img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="350" />
  
 
 <h2> My GitHub Stats </h2>
