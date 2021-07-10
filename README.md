@@ -3,7 +3,7 @@
  
 
 
-- ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱....
+<!-- - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱.... -->
 -  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/>
  
  
