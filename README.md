@@ -4,9 +4,10 @@
 
 
 <!-- - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱.... -->
--  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/>
+<!-- 
+-  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/> -->
  
- 
+ <a href="https://instagram.com/_sweet106_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honey_andani" height="30" width="40" /></a>
  
 <!--  <img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="250" /> <hr> -->
  
