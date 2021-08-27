@@ -4,9 +4,7 @@
  <a href="https://www.linkedin.com/in/honey-andani-192423218/">
   <img align="left" alt="honey andani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/in/_sweet106_/">
-  <img align="left" alt="honey andani's insta" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+
 
 
 <!-- - ⚡ Fun fact: ... luv to design web page but hate coding🥱.... --> 
