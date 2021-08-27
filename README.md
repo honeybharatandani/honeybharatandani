@@ -15,7 +15,7 @@
 <!--  <h3 align="left">Languages and Tools:</h3>
   -->
   <br/>
-  <hr>
+  
   Languages & Tools &nbsp;
  <p align="left"> 
 <!--   <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>  -->
@@ -59,9 +59,7 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-<p align="left">
 ![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
- </p>
 
 
 
