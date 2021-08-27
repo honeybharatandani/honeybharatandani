@@ -8,6 +8,8 @@
 -  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/> -->
  
 <!--  <a href="https://discord.gg/honeyandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="honeyandani" height="40" width="40" /></a>  -->
+ ![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
+
  <a href="https://instagram.com/_sweet106_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honey_andani" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/honey-andani-192423218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honeyandani" height="30" width="40" /></a>
 <!--  <img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="250" /> <hr> -->
@@ -15,7 +17,6 @@
  
 <!-- <img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="350" />
   -->
- ![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
  
  <h3 align="left">Languages and Tools:</h3>
  
