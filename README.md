@@ -4,7 +4,6 @@
  <a href="https://www.linkedin.com/in/honey-andani-192423218/">
   <img align="left" alt="honey andani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
 
 
 
@@ -16,6 +15,7 @@
 <!--  <h3 align="left">Languages and Tools:</h3>
   -->
   <br/>
+  <hr>
   Languages & Tools &nbsp;
  <p align="left"> 
 <!--   <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>  -->
@@ -33,7 +33,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <!--  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
  -->
-<h2> My GitHub Stats </h2>
+ My GitHub Stats
 
 <p align="left"> <a href="https://github.com/honeybharatandani"><img src="https://github-profile-trophy.vercel.app/?username=honeybharatandani&theme=onedark" alt="honeybharatandani" /></a> </p>
 <!-- 
@@ -57,6 +57,7 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
 
 
 
