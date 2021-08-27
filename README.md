@@ -4,7 +4,6 @@
  <a href="https://www.linkedin.com/in/honey-andani-192423218/">
   <img align="left" alt="honey andani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
 
 
 
