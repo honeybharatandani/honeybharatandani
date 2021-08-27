@@ -34,8 +34,6 @@
 <!--  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
  -->
  </p>
-
- <br/>
  My GitHub Stats &nbsp;
 
 <p align="left"> <a href="https://github.com/honeybharatandani"><img src="https://github-profile-trophy.vercel.app/?username=honeybharatandani&theme=onedark" alt="honeybharatandani" /></a> </p>
