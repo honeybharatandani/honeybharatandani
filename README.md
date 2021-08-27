@@ -13,9 +13,10 @@
 <!--  <img src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif" width="250" /> <hr> -->
  
  
-<img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="350" />
- 
+<!-- <img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="350" />
+  -->
  ![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
+ 
  <h3 align="left">Languages and Tools:</h3>
  
  <p align="left"> 
@@ -55,7 +56,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=honeybharatandani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/honeybharatandani)  
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
