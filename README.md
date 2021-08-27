@@ -3,7 +3,7 @@
  
 
 
-<!-- - ⚡ Fun fact: ... luv to design web pages😎but hate coding🥱.... -->
+<!-- - ⚡ Fun fact: ... luv to design web page but hate coding🥱.... -->
 <!-- 
 -  <a href="https://www.instagram.com/_sweet106_/"><img src="https://img.shields.io/badge/honeybharatandani-E4405F?style=for-the-badge&logo=instagram&logoColor=violet"/> -->
  
@@ -44,7 +44,7 @@
  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeybharatandani&show_icons=true&locale=en&layout=compact&theme=radical" alt="honeybharatandani" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybharatandani&theme=radical" alt="honeybharatandani" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybharatandani&layout=compact&theme=radical" alt="honeybharatandani" /></p>
    
    
    
