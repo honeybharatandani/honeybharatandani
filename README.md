@@ -37,13 +37,21 @@
 <h2> My GitHub Stats </h2>
 
 <p align="left"> <a href="https://github.com/honeybharatandani"><img src="https://github-profile-trophy.vercel.app/?username=honeybharatandani&theme=onedark" alt="honeybharatandani" /></a> </p>
+<!-- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeybharatandani&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="honeybharatandani" /></p> -->
+   
+   
+ <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeybharatandani&show_icons=true&locale=en&layout=compact&theme=radical" alt="honeybharatandani" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=honeybharatandani&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="honeybharatandani" /></p>
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honeybharatandani&theme=radical" alt="honeybharatandani" /></p>
+   
+   
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=honeybharatandani&show_icons=true&count_private=true&&theme=highcontrast)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honeybharatandani&theme=highcontrast)
-
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honeybharatandani&theme=highcontrast)
+ -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=honeybharatandani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/honeybharatandani)  
@@ -51,6 +59,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-<!-- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/honeybharatandani/count.svg) -->
 
 
