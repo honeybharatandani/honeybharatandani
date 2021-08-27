@@ -35,7 +35,7 @@
  -->
 
  <br/>
- My GitHub Stats
+ My GitHub Stats &nbsp;
 
 <p align="left"> <a href="https://github.com/honeybharatandani"><img src="https://github-profile-trophy.vercel.app/?username=honeybharatandani&theme=onedark" alt="honeybharatandani" /></a> </p>
 <!-- 
