@@ -15,7 +15,7 @@
  
 <img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="350" />
  
- 
+ ![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
  <h3 align="left">Languages and Tools:</h3>
  
  <p align="left"> 
@@ -51,6 +51,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
-Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/honeybharatandani/count.svg)
+<!-- Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/honeybharatandani/count.svg) -->
 
 
