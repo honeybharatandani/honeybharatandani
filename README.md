@@ -8,7 +8,7 @@
   <img align="left" alt="HoneyAndani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
 <!-- - ⚡ Fun fact: ... luv to design web page but hate coding🥱.... --> 
  
 <!-- <img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" width="350" />
@@ -60,7 +60,7 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '65px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
+
 
 
 
