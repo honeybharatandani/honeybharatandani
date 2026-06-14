@@ -1,9 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Honey Andani</h1>
  -->
- ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- <a href="https://www.linkedin.com/in/honey-andani-192423218/">
-  <img align="left" alt="honey andani's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ ### Hi there 
+
   <a href="https://twitter.com/HoneyAndani">
   <img align="left" alt="HoneyAndani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
