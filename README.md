@@ -2,9 +2,6 @@
  -->
  ### Hi there 
 
-  <a href="https://twitter.com/HoneyAndani">
-  <img align="left" alt="HoneyAndani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=honeybharatandani)
 <!-- - ⚡ Fun fact: ... luv to design web page but hate coding🥱.... --> 
